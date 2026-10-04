@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.env
+.env.*
+!.env.example
+.idea/
+.firebase/
+.DS_Store
+*.log
+*.tsbuildinfo
+*.bundle
+.local/
